@@ -2,11 +2,11 @@
 
 <div align="center">
   <p>
-    Site desenvolvido por <strong>João Alfredo Alves</strong>, através do projeto <strong>OriginSix</strong>, da <i>Trilha Discover</i> da Plataforma da <strong>RocketSeat</strong>. <br> Para acessar o site <strong>BeautySalon</strong>, <a href="https://joaoalfredoalves.github.io/beautysalon/" target="_blank">Clique Aqui!</a>
+    Site desenvolvido por <strong>João Alfredo Alves</strong>, através do projeto <strong>OriginSix</strong>, <br> da <i>Trilha Discover</i> da Plataforma da <strong>RocketSeat</strong>. <br><br> Para acessar o site <strong>BeautySalon</strong>, <a href="https://joaoalfredoalves.github.io/beautysalon/" target="_blank">Clique Aqui!</a>
   </p>
 </div>
 
-&nbsp;
+---
 
 <div align="center">
   <h2>🔖 Layout Do Projeto</h2>
